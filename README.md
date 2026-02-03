@@ -313,7 +313,7 @@ All automation templates in this repository were found online and are uploaded h
 ### **Other**
 
 - ALL_unique_nodes.txt (node reference)
-
+- [Free n8n Workflows Collection](https://github.com/pxw3504k-web/free-n8n-workflows) - Open source database of 8,000+ verified n8n workflows.
 ... and more !
 
 ---
